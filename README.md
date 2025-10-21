@@ -11,22 +11,6 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darlon-c&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlon-c&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  
-</div>
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darlon-c&theme=radical&hide_border=true" />
-  
-</div>
-
-<br>
 
 ## 🛠 Tecnologias e Ferramentas
 
