@@ -33,15 +33,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, estou focado em iniciar car
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlon-c&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darlon-c&theme=radical&hide_border=true" />
-</div><div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  alt="Coding GIF" />
-  <h1>Olá 👋, eu sou o Darlon Costa</h1>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darloncosta050)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlon-c)
 </div>
 
 
